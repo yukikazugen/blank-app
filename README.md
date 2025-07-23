@@ -1,6 +1,6 @@
 ############################
 # git trial
-# confrict check
+# confrict check test_branch1
 ############################
 
 # 🎈 Blank app template

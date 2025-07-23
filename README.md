@@ -1,5 +1,6 @@
 ############################
 # git trial
+# confrict check
 ############################
 
 # 🎈 Blank app template

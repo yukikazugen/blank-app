@@ -1,6 +1,7 @@
 ############################
 # git trial
-# confrict check
+# confrict check test_branch1
+# confrict check test_branch1 2
 # confrict check2
 ############################
 

@@ -4,6 +4,7 @@
 # confrict check test_branch1 2
 # confrict check2
 # merge test 2
+# merge test 3
 ############################
 
 # 🎈 Blank app template
